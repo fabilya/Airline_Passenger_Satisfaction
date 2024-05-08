@@ -21,10 +21,10 @@
 - Logistic Regression
 
 ## Испольуемые библиотеки
-Pandas
-Matplotlib
-Seaborn
-Scikit-learn
+- `Pandas`
+- `Matplotlib`
+- `Seaborn`
+- `Scikit-learn`
 
 ## Заключение
 Алгоритм «Random Forest» показал самую высокую точность — 95,90%, а алгоритм "KNeighborsClassifier" показал самую низкую точность — 75,47%. 
